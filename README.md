@@ -1,6 +1,11 @@
 # MAX Exchange API Automation
 
+[English](README.md) | [繁體中文](README.zh-TW.md)
+
 This project provides a convenient automation tool for creating orders on the MAX exchange platform via the official MAX exchange APIs. It's designed to streamline the order creation process, allowing for quick and efficient market operations.
+
+
+
 
 ## Features
 
@@ -59,14 +64,19 @@ The script will guide you through several prompts:
 
 Upon confirmation, the script will automatically begin placing orders as configured.
 
+## References
+MAX Exchange API Documentation:https://max.maicoin.com/documents/api_list/v2
+
+
 ## Contributions
 
 Feel free to contribute to this project! If you have suggestions or improvements, please fork the repo and create a pull request or open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks!
 
 If you'd like to support my work:
 
-- **Ethereum Address**: `0x99141283469FF129EfC3139F963C511029aC5B66`
-- **MAX Exchange Referral Code**: `https://max.maicoin.com/signup?r=a4e9431a`
+- **ETH**：`0x99141283469FF129EfC3139F963C511029aC5B66`
+- **LOOT**：`0x99141283469FF129EfC3139F963C511029aC5B66`
+- **ERC20**：`0x99141283469FF129EfC3139F963C511029aC5B66`- **MAX Exchange - **Referral Code**: [https://max.maicoin.com/signup?r=a4e9431a](https://max.maicoin.com/signup?r=a4e9431a)
 
 ## Credits
 
