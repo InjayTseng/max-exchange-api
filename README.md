@@ -76,7 +76,8 @@ If you'd like to support my work:
 
 - **ETH**：`0x99141283469FF129EfC3139F963C511029aC5B66`
 - **LOOT**：`0x99141283469FF129EfC3139F963C511029aC5B66`
-- **ERC20**：`0x99141283469FF129EfC3139F963C511029aC5B66`- **MAX Exchange - **Referral Code**: [https://max.maicoin.com/signup?r=a4e9431a](https://max.maicoin.com/signup?r=a4e9431a)
+- **ERC20**：`0x99141283469FF129EfC3139F963C511029aC5B66`
+- **MAX Exchange Referral Code**: [https://max.maicoin.com/signup?r=a4e9431a](https://max.maicoin.com/signup?r=a4e9431a)
 
 ## Credits
 
